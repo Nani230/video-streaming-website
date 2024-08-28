@@ -1,0 +1,12 @@
+{
+    "user": {
+        "_id": "61d52010cb59c25e6d52acfa",
+        "username": "Jithendra",
+        "mail": "Jithendrabathala@gmail.com",
+        "password": "$2a$10$IHSr0EkDbEHVLG4ars4w6uf1RNyCeyrv6Br2c9lapxlZH8UEayIQK",
+        "createdAt": "2022-01-05T04:35:28.915Z",
+        "updatedAt": "2022-01-05T04:35:28.915Z",
+        "__v": 0
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkppdGhlbmRyYSIsIm1haWwiOiJKaXRoZW5kcmFiYXRoYWxhQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoidGVzdDEyMyIsImlhdCI6MTY0MTQ4MTMwNX0.5JYqPMof_Ihu0Hdk7ODZ-JAXZLYhZe_SdVkVvCG7VJU"
+}
